@@ -1,2 +1,2 @@
-# C-digos-Java
+# Codigos-Java
 Scripts simples de Java para estudar Orientação a Objeto na Faculdade 
